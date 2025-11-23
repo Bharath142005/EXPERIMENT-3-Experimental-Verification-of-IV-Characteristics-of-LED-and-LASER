@@ -41,21 +41,29 @@ To study the characteristics of fiber optic LED and plot the graph of forward cu
 
 ## 🔌 CONNECTION DIAGRAM
 
-![WhatsApp Image 2025-11-19 at 22 46 21_6416ffc0](https://github.com/user-attachments/assets/c54811ee-346c-455d-b8e3-cb984209b4e4)
+<img width="1088" height="690" alt="image" src="https://github.com/user-attachments/assets/d58e7dd3-caf2-4e82-9ae3-5ffd6eb57e84" />
 
+---
 
 ## 📊 TABULATION
 
-![WhatsApp Image 2025-11-19 at 22 45 48_b3e21e37](https://github.com/user-attachments/assets/f47e5ba6-40fc-4d26-9406-3d59c4eeeac1)
+### LED Forward Characteristics
+
+![WhatsApp Image 2025-11-23 at 18 59 49_9632691b](https://github.com/user-attachments/assets/17f4b9a3-373e-415b-8d2c-245b33fa823f)
 
 ---
 
 ## 📈 MODEL GRAPH
-![WhatsApp Image 2025-11-19 at 22 45 48_6c191390](https://github.com/user-attachments/assets/4f93bb67-5136-4137-899a-4ac4d4de0fe5)
 
+![WhatsApp Image 2025-11-23 at 18 59 59_8f2df84a](https://github.com/user-attachments/assets/393287c1-0566-4e9a-acba-ece89b4f6b4a)
 
 ---
 
+## GRAPH
+
+![WhatsApp Image 2025-11-23 at 19 00 43_bbb181e9](https://github.com/user-attachments/assets/b5362e7d-9050-4698-ba99-405ce2cde028)
+
+---
 ## ✅ RESULT
 - The forward voltage and current characteristics of the fiber optic LED were successfully studied.
 - The photo detector response was observed and analyzed.
